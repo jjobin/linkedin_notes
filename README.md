@@ -15,9 +15,10 @@ To read everything:
 
     python3 linotes.py -r
 
-To find a person by name, specify the first and last name. You can also specify a partial string. E.g.:
+To find a person by name, specify the first and last name. You can also specify a partial string, e.g.:
 
    python3 linotes.py -p -F John -L Doe
+
    python3 linotes.py -p -F John -L Do
 
 To add a note to a connection by name, specify the first name, last name, and the note. e.g.:
