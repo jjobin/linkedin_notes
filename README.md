@@ -1,6 +1,6 @@
 
 Utility to create a SQLite database with the name of your LinkedIn connection along with additional notes you want to keep.
-For instance, "Met at the IEEE 2021 conference in Barrow, Alaska"
+For instance, "Met at the IEEE 2021 conference in Barrow, Alaska".
 
 To begin, download a copy of your data from LinkedIn.
     Go to Account -> Settings and Privacy -> Get a copy of your data
@@ -11,7 +11,7 @@ To create the initial database:
 
     python3 linotes.py -c
 
-To read everything:
+To read everything (verify that the creation of the database was successful):
 
     python3 linotes.py -r
 
